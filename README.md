@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gabriel!
-- 👀 I’m interested in computer science, construction & accessible education.
-- 🌱 I’m currently learning how to be a better software engineer at Harvard Extension School.
-- 💞️ I’m looking to collaborate on things to do with accessible education and social equity.
+- 👀 I’m interested in computer science and software engineering.
+- 🌱 I’m currently a Software Engineer and a masters student.
 - 📫 How to reach me? Check out the links in my profile!
 
 <!---
