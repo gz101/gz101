@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Gabriel!
-- 👀 I’m interested in computer science and software engineering.
-- 🌱 I’m currently a Software Engineer and a masters student.
+- 👋 Hello, I’m Gabriel!
+- 👀 I’m interested in CS theory 🎲, construction 🚧 and accessible education 📖🎓.
+- 💼 I’m currently a Software Engineer 💻 in the Backend Engineering team at [Q-CTRL](https://q-ctrl.com/).
+- 🌱 I'm also currently studying a Masters degree 👨‍🎓 in the field of Software Engineering 🖱️ at [Harvard Extension School](https://extension.harvard.edu/).
 - 📫 How to reach me? Check out the links in my profile!
 
-<!---
-gz101/gz101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
