@@ -6,4 +6,4 @@
 - 📫 How to reach me? Check out the links in my profile!
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=gz101&count_private=true&theme=tokyonight&show_icons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gz101&langs_count=5&theme=tokyonight&layout=compact)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gz101&hide=html,css&langs_count=5&theme=tokyonight&layout=compact)]()
